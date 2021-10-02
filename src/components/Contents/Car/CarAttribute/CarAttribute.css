@@ -1,0 +1,25 @@
+
+
+
+
+.custom_attribute {
+    display: flex;
+    justify-content: flex-start;
+    /* border : 1px solid red ; */
+    padding: 10px;
+}
+.custom_ability {
+    font-weight: bold;
+    font-size:30px;
+
+    display : flex ;
+    justify-content: center;
+}
+.custom_unit {
+    display: flex;
+    justify-content: center;
+}
+.button_model {
+    border-radius: 100px;
+    width: 100%;
+}

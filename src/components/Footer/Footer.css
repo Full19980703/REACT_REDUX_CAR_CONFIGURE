@@ -1,0 +1,24 @@
+
+
+.custom_row {
+    display: flex;
+    align-items: center;
+    background-color: #333333;
+    height: 70px ;
+}
+.custom_button {
+    background-color: #c33364;
+    border-radius: 20px;
+    width: 150px;
+    font-weight: bold;
+}
+
+.custom_previous {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.custom_next {
+    display: flex;
+    justify-content: flex-end;
+}

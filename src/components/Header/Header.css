@@ -1,0 +1,25 @@
+
+
+.custom_navbar {
+    border-bottom : 2px solid rgb(223,223,223) ;
+    height : 80px;
+    /* padding-right : 40%; */
+}
+.custom_navitem {
+    display: flex;
+    height: 80px;
+    width: 150px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    text-decoration: none;
+    color : black ;
+}
+.custom_navitem:hover {
+    font-weight: bold;
+    border-bottom: 3px solid rgb(195,51,100);
+    color : black ;
+}
+.custom_navbar:link {
+    color : black ;
+}
